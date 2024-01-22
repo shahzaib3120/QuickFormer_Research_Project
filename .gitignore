@@ -1,0 +1,4 @@
+machine translation/T5/
+
+# ignore all .ipynb_checkpoints/ folder
+.ipynb_checkpoints/
